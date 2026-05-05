@@ -1,4 +1,4 @@
-# Weighted Views + Transformer for Molecular Learning
+# Weighted Views Transformer for Molecular Learning
 
 This repository contains the implementation of the Weighted Views framework combined with Transformer-based architectures for:
 - QM7 molecular property prediction
