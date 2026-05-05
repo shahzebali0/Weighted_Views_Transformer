@@ -11,10 +11,16 @@ This repository contains the implementation of the Weighted Views framework comb
 
 
 ```text
-Ranking-enentiomers-by-their-docking-scores/
-├── src/
-│   ├── atom_encoder.py        # Single atom properties and feature switches
-│   ├── truncated_views.py     # Truncated views with pairwise information
+Weighted_Views_Transformer/
+├── Code/
+│   ├── common_utils
+        ├──  enantiomer_single_atom.py
+        ├──  qm7_single_atom.py
+        ├──  qm7_weightedviews.py
+        ├──  views_test.py
+        ├──  views_train.py
+        ├──  views_val.py
+│   ├── Enantiomer_ranking
 │   └── weighted_views.py      # Original Weighted Views featurization method
 │
 ├── notebooks/
