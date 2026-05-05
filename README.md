@@ -14,30 +14,24 @@ This repository contains the implementation of the Weighted Views framework comb
 Weighted_Views_Transformer/
 ├── Code/
    ├── common_utils
-        ├──  enantiomer_single_atom.py
-        ├──  qm7_single_atom.py
-        ├──  qm7_weightedviews.py
-        ├──  views_test.py
-        ├──  views_train.py
-        ├──  views_val.py
+        └─  enantiomer_single_atom.py
+        └─  qm7_single_atom.py
+        └─  qm7_weightedviews.py
+        └─  views_test.py
+        └─  views_train.py
+        └─  views_val.py
    ├── Enantiomer_ranking
-        ├──  Enantiomer _work.ipynb     
+        └─  Enantiomer _work.ipynb     
    ├── QM7
-        ├── qm7_work.ipynb
-        
-│
+        └─ qm7_work.ipynb       
 ├── Data/
 │   ├── Enantiomer_ranking_dataset
 │   │   └─   sample_test.pkl
         └─   sample_train.pkl
         └─   sample_val.pkl 
-│   ├── fullsplit_singleproperties.ipynb
-│   │   └─ Ranking with additional single atom properties
-│   ├── data_information.ipynb
-│   │   └─ Dataset analysis and statistics
-│   └── chirality_transformer_coulomb.ipynb
-│       └─ Transformer based model with Coulomb and chirality aware features
-│
+│   ├── QM7 dataset
+│   │   └─ qm7.mat
+├── Results/
 └── README.md
 ```
 
