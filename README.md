@@ -26,9 +26,11 @@ Weighted_Views_Transformer/
         ├── qm7_work.ipynb
         
 │
-├── notebooks/
-│   ├── full_split.ipynb
-│   │   └─ Enantiomer ranking using neural networks only
+├── Data/
+│   ├── Enantiomer_ranking_dataset
+│   │   └─   sample_test.pkl
+        └─   sample_train.pkl
+        └─   sample_val.pkl 
 │   ├── fullsplit_singleproperties.ipynb
 │   │   └─ Ranking with additional single atom properties
 │   ├── data_information.ipynb
