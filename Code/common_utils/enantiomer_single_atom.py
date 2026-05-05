@@ -111,7 +111,7 @@ atomic_number_to_type = {
 
 
 
-def get_embeddings(single_atom, atom_properties, single_atomic_property_switches, embedding_size=20):
+def get_embeddings(single_atom, atom_properties, single_atomic_property_switches, embedding_size=16):
     """
     Get fixed-size embeddings (length=16) for each atom using atomic number, 3D coordinates, and selected properties.
     Remaining positions are zero-padded.
