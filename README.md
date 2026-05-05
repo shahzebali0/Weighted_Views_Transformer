@@ -21,7 +21,10 @@ Weighted_Views_Transformer/
         ├──  views_train.py
         ├──  views_val.py
 │   ├── Enantiomer_ranking
-│   └── weighted_views.py      # Original Weighted Views featurization method
+        ├──  Enantiomer _work.ipynb     
+│   ├── QM7
+        ├── qm7_work.ipynb
+        
 │
 ├── notebooks/
 │   ├── full_split.ipynb
