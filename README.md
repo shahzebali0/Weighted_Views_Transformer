@@ -13,16 +13,16 @@ This repository contains the implementation of the Weighted Views framework comb
 ```text
 Weighted_Views_Transformer/
 ├── Code/
-│   ├── common_utils
+   ├── common_utils
         ├──  enantiomer_single_atom.py
         ├──  qm7_single_atom.py
         ├──  qm7_weightedviews.py
         ├──  views_test.py
         ├──  views_train.py
         ├──  views_val.py
-│   ├── Enantiomer_ranking
+   ├── Enantiomer_ranking
         ├──  Enantiomer _work.ipynb     
-│   ├── QM7
+   ├── QM7
         ├── qm7_work.ipynb
         
 │
