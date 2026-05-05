@@ -7,9 +7,6 @@ This repository contains the implementation of the Weighted Views framework comb
 ---
 
 ## Repository Structure
-
-
-
 ```text
 Weighted_Views_Transformer/
 ├── Code/
@@ -34,7 +31,6 @@ Weighted_Views_Transformer/
 ├── Results/
 └── README.md
 ```
-
 
 ---
 
@@ -101,4 +97,4 @@ The `Results/` folder contains:
   - Sample results for ranking task  
 
 - **qm7_results/**
-  - Sample results for QM7 prediction task  
+  - Sample results for QM7 property prediction task
