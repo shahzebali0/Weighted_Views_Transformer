@@ -33,6 +33,11 @@ Weighted_Views_Transformer/
 ```
 
 ---
+## Reproduction
+
+step 1: Load qm7_work.ipynb along with qm7_weightedviews.py and QM7_single_atom.py 
+Step 2: Load qm7.mat from data folder. 
+step 3: qm7_work.ipynb contain file for main analysis. 
 
 ## Utilities
 
