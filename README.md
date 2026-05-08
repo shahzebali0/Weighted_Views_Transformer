@@ -33,15 +33,34 @@ Weighted_Views_Transformer/
 ```
 
 ---
-## Reproduction
+# Reproduction
 
-step 1: Load qm7_work.ipynb along with qm7_weightedviews.py and QM7_single_atom.py 
+## Molecule Property Prediction
+
+1. Load `qm7_work.ipynb` along with:
+   - `qm7_weightedviews.py`
+   - `QM7_single_atom.py`
+
+2. Load `qm7.mat` from the `Data/` folder.
+
+3. `qm7_work.ipynb` contains the main analysis pipeline.
+
+---
+
+## Ranking Enantiomers by Docking Scores
+
+1. Load `Enantiomer_work.ipynb` along with:
+   - `enantiomer_single_atom.py`
+   - `views_train.py`
+   - `views_val.py`
+   - `views_test.py`
+
+2. Download the dataset from:
+   https://figshare.com/s/e23be65a884ce7fc8543
+
+3. A small sample dataset containing a few molecules is also available in the `Data/` folder for testing purposes.
 
 
-Step 2: Load qm7.mat from data folder. 
-
-
-step 3: qm7_work.ipynb contain file for main analysis. 
 
 ## Utilities
 
