@@ -123,7 +123,7 @@ Weighted_Views_Transformer/
 ## Data
 The `Data/` folder contains:
 - **Enantiomer_ranking_dataset/**
-  - Sample dataset used in this study  
+  - Sample dataset for testing   
   - Full dataset: https://figshare.com/s/e23be65a884ce7fc8543  
 - **QM7 dataset/**
   - Complete QM7 dataset
